@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0f1c4a14b959a94886c1961b0142a9a, type: 3}
+  m_Name: _SymbolData_E
+  m_EditorClassIdentifier: 
+  puzzleMaterial: {fileID: 2100000, guid: 4dacc0c08a7bfa1468e3c06638dfbfa8, type: 2}
+  doorMaterial: {fileID: 2100000, guid: 7c1bb98ecae670440ad61ae48cdcc6c3, type: 2}
+  playerMaterial: {fileID: 2100000, guid: c272bc8713b3224479676bd7b73c1055, type: 2}
+  _symbolId: 4
+  _symbolOrder: 5
+  _rotationMatchAngle: {x: 90, y: 0, z: 0}
